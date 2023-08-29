@@ -37,5 +37,5 @@ To get started with SeaLink, clone the repository and install the required Pytho
 
 ## Acknowledgments
 
-(Any acknowledgments, citations, or resources that have contributed to the project can be mentioned here.)
+[pysheds](https://mattbartos.com/pysheds/)
 
