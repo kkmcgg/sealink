@@ -20,6 +20,9 @@ SeaLink has broad applications in:
 - Tidal Flood Modeling: For accurate flood predictions in areas with complex tidal distributions.
 - Resource Management: For effective planning in regions susceptible to sea-level rise and tidal variations.
 
+  ![image](HHWLT_CGVD2013_2_rough_annapolis.png)
+*the height above sea changes greater over short distances in the annapolis basin, NS
+
 ## Data Requirements
 
 To operate SeaLink, the following data are essential:
@@ -30,9 +33,6 @@ To operate SeaLink, the following data are essential:
 ## Usage
 
 To get started with SeaLink, clone the repository and install the required Python packages listed in the requirements.txt file. After that, run the main script with your elevation model and tidal offset points as arguments.
-
-![image](HHWLT_CGVD2013_2_rough_annapolis.png)
-*the height above sea changes greater over short distances in the annapolis basin, NS
 
 ## Acknowledgments
 
