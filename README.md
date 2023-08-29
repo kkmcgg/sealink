@@ -1,5 +1,8 @@
 # SeaLink: Tide Constituent Linking Tool
 
+![image](HHWLT_CGVD2013_2_rough.png)
+*height above sea (rough, note that holes are unintentional)
+
 ## Introduction and Concept
 
 SeaLink is a geospatial tool designed to standardize the influence of tidal offsets across varied topographies. It achieves this by 'linking' each inland point to its nearest oceanic point, providing a uniform tidal offset value. The primary aim is to offer a consistent frame of reference for tidal benchmarks such as Higher High Water Large Tide (HHWLT) or Lower Low Water Large Tide (LLWLT).
@@ -27,6 +30,9 @@ To operate SeaLink, the following data are essential:
 ## Usage
 
 To get started with SeaLink, clone the repository and install the required Python packages listed in the requirements.txt file. After that, run the main script with your elevation model and tidal offset points as arguments.
+
+![image](HHWLT_CGVD2013_2_rough_annapolis.png)
+*the height above sea changes greater over short distances in the annapolis basin, NS
 
 ## Acknowledgments
 
