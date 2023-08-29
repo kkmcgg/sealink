@@ -21,7 +21,7 @@ SeaLink has broad applications in:
 
 To operate SeaLink, the following data are essential:
 
-- Tidal Offset Points: Typically sourced from CHS hySeps, these are required for converting CGVD2013 to HHWLT or LLWLT.
+- Tidal Offset Points: Typically sourced from CHS [HyVSEPs](https://www.researchgate.net/publication/299373222_Hydrographic_Vertical_Separation_Surfaces_HyVSEPs_for_the_Tidal_Waters_of_Canada#fullTextFileContent), these are required for converting CGVD2013 to HHWLT or LLWLT.
 - Elevation Model: This should be in the CGVD2013 standard and can be sourced either from Canadian HRDEM or provincial GeoNova lidar DEM.
 
 ## Usage
