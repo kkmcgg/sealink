@@ -31,9 +31,11 @@ To operate SeaLink, the following data are essential:
 
 To get started with SeaLink, clone the repository and install the required Python packages listed in the requirements.txt file. After that, run the main script with your elevation model and tidal offset points as arguments.
 
+
+![image](HHWLT_CGVD2013_2_rough_annapolis.png)
+*the height above sea changes greater over short distances in the annapolis basin, NS
+
 ## Acknowledgments
 
 (Any acknowledgments, citations, or resources that have contributed to the project can be mentioned here.)
 
-  ![image](HHWLT_CGVD2013_2_rough_annapolis.png)
-*the height above sea changes greater over short distances in the annapolis basin, NS
